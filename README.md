@@ -14,7 +14,7 @@
 
 📧 mahekbegum54@gmail.com
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mahek-begum-620098328/) • [GitHub](https://github.com/Mahekbegum2004)
+🔗 [LinkedIn](https://www.linkedin.com/in/mahek-begum-620098328/) • [GitHub](https://github.com/mahekbegum122)
 
 <img src="https://komarev.com/ghpvc/?username=Mahekbegum2004&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
@@ -56,9 +56,13 @@
 <div align="center">
 
 ### 🤖 Machine Learning & AI
-![Logistic Regression](https://img.shields.io/badge/-Logistic%20Regression-blue?style=flat) 
-![Random Forest](https://img.shields.io/badge/-Random%20Forest-green?style=flat) 
-![NLP](https://img.shields.io/badge/-NLP-red?style=flat)
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-00599C?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-purple?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-1F77B4?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 📊 Data Analytics Tools
 
@@ -84,6 +88,15 @@
 </div>
 
 ---
+
+## 💼 Experience
+
+### 📊 Data Science Virtual Internship
+
+- Developed ML prediction models using real-world datasets
+- Worked with Pandas, NumPy, and Scikit-learn
+- Performed preprocessing and visualization
+- Improved model accuracy using ML techniques
 
 ## 🚀 Featured Projects
 
