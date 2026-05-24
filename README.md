@@ -1,13 +1,14 @@
-# mahekBegum_Portfolio
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=260&section=header&text=Hi,%20I'm%20Mahek%20Begum&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20AI/ML%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=260&section=header&text=Hi,%20I'm%20Mahek%20Begum&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20AI/ML%20Developer%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 </p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F5AF0&center=true&width=650&lines=Final+Year+B.Tech+IT+Student;Java+%7C+DSA+%7C+Full+Stack+Developer;AI%2FML+Project+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F5AF0&center=true&width=750&lines=Final+Year+B.Tech+IT+Student;Software+Engineer;Java+%7C+DSA+%7C+Full+Stack+Developer;AI%2FML+Project+Builder;Passionate+About+Building+Innovative+Solutions)](https://git.io/typing-svg)
 
-🎓 Information Technology Engineering Student | 💻 Developer | 🤖 AI/ML Enthusiast
+💻 Software Engineer | 🤖 AI/ML Developer | 🌐 Full Stack Developer
+
+🎓 Information Technology Engineering Student
 
 📍 SREENIDHI INSTITUTE OF SCIENCE AND TECHNOLOGY | 📊 CGPA: 8.43
 
@@ -24,8 +25,6 @@
 
 ### Languages
 
-### Languages
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,7 +33,6 @@
 
 ### Frontend
 
-### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,21 +52,36 @@
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
+
 <div align="center">
 
 ### 🤖 Machine Learning & AI
-![Logistic Regression](https://img.shields.io/badge/-Logistic%20Regression-blue?style=flat) • ![Random Forest](https://img.shields.io/badge/-Random%20Forest-green?style=flat) • ![NLP](https://img.shields.io/badge/-NLP-red?style=flat)
+![Logistic Regression](https://img.shields.io/badge/-Logistic%20Regression-blue?style=flat) 
+![Random Forest](https://img.shields.io/badge/-Random%20Forest-green?style=flat) 
+![NLP](https://img.shields.io/badge/-NLP-red?style=flat)
+
+### 📊 Data Analytics Tools
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 </div>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahekbegum2004&show_icons=true&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahekbegum2004&layout=compact&theme=tokyonight"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahekbegum2004&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahekbegum2004&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mahekbegum2004&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -114,7 +127,7 @@
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow)
 
-🔗 GitHub Project: [View Project](https://github.com/Mahekbegum2004)
+
 
 ---
 
@@ -162,6 +175,13 @@
 - 🌐 Full Stack Developer
 
 ---
+
+### 📚 Core Subjects
+
+![DBMS](https://img.shields.io/badge/DBMS-blue?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-green?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-orange?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-red?style=for-the-badge)
 
 ## 📜 Certifications
 
