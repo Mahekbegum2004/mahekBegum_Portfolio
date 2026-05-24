@@ -24,21 +24,42 @@
 
 ### Languages
 
+### Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </div>
+<div align="center">
+
+### 🤖 Machine Learning & AI
+![Logistic Regression](https://img.shields.io/badge/-Logistic%20Regression-blue?style=flat) • ![Random Forest](https://img.shields.io/badge/-Random%20Forest-green?style=flat) • ![NLP](https://img.shields.io/badge/-NLP-red?style=flat)
+</div>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -57,31 +78,41 @@
 
 > AI-based healthcare application that predicts skin diseases using uploaded images.
 
+🚧 Currently Working On This Project
+
 - AI model integration
 - React frontend
 - Node.js backend
 - MongoDB database
+- Disease prediction system
+- Authentication using JWT
+- Real-time disease analysis
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow)
 
-🔗 GitHub Project: [View Project](https://github.com/Mahekbegum2004)
 
 ---
 
 ### 🚗 Accident Severity Prediction Using ML
 
-> Machine learning project for predicting road accident severity and analyzing accident risk patterns.
+> Final Year Major Project focused on predicting road accident severity and analyzing accident risk patterns using Machine Learning techniques.
 
-- Data preprocessing
-- Decision Tree & Random Forest
-- Data visualization
-- ML prediction models
+🎓 Final Year Major Project
+
+- Data preprocessing and cleaning
+- Decision Tree & Random Forest models
+- Data visualization and EDA
+- ML-based accident severity prediction
+- Risk pattern analysis using real-world datasets
+- Performance evaluation using accuracy metrics
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow)
 
 🔗 GitHub Project: [View Project](https://github.com/Mahekbegum2004)
 
@@ -97,7 +128,29 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
 
-🔗 GitHub Project: [View Project](https://github.com/Mahekbegum2004)
+🔗 GitHub Project: [View Project](https://github.com/mahekbegum122/LRU)
+
+---
+
+### 😊 Sentiment Analysis on Flipkart Reviews
+
+> Machine Learning and NLP project that analyzes Flipkart product reviews and predicts customer sentiment as positive or negative.
+
+🧠 NLP & Machine Learning Project
+
+- Text preprocessing and cleaning
+- TF-IDF vectorization
+- Sentiment classification using ML models
+- Positive and negative review prediction
+- Accuracy evaluation and model comparison
+- Real-world customer review analysis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-purple?style=flat-square)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow)
+
+🔗 GitHub Project: [View Project](https://github.com/mahekbegum122/Sentiment-analysis-on-Flipcart-product-reviews-)
 
 ---
 
