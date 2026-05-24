@@ -114,7 +114,7 @@
 
 | Certificate | Link |
 |---|---|
-| Python Programming | [View](https://github.com/Mahekbegum2004/mahekBegum_Portfolio/blob/main/certificates/python_pdf) |
+| Python Programming | [View](https://github.com/Mahekbegum2004/mahekBegum_Portfolio/blob/main/certificates/python_pdf.png) |
 | Java Programming | [View](https://github.com/Mahekbegum2004/mahekBegum_Portfolio/blob/main/certificates/java.pdf) |
 | SQL Certificate | [View](https://github.com/Mahekbegum2004/mahekBegum_Portfolio/blob/main/certificates/SQL_PDF.jpg) |
 | Git & GitHub | [View](https://github.com/Mahekbegum2004/mahekBegum_Portfolio/blob/main/certificates/GIT,GITHUB_PDF.jpg) |
