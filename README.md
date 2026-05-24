@@ -84,24 +84,7 @@
 ![Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahekbegum122&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahekbegum122&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=mahekbegum122&theme=tokyonight&hide_border=true"/>
-
-</div>
----
 
 ## 💼 Experience
 
@@ -224,6 +207,31 @@
 | Oracle AI Vector | [View](https://github.com/Mahekbegum2004/mahekBegum_Portfolio/blob/main/certificates/Oracle_AI_VECTOR_PDF.jpg) |
 ---
 
+
+
+---
+
+## 🌱 Volunteer Experience
+
+### 🌍 Bachpan Prayas
+
+📅 Feb 2024 – Jun 2024  
+🎭 Role: General Member  
+🌿 Cause: Environment
+
+- Participated in environmental awareness initiatives
+- Contributed to sustainability-focused activities
+- Worked collaboratively in social impact programs
+- Supported community engagement and environmental campaigns
+
+---
+
+## 🌐 Languages Known
+
+- Hindi
+- English
+- Telugu
+- 
 ## 🎯 Currently Learning
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Learning-green?style=for-the-badge)
