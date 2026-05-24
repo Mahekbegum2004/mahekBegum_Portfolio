@@ -112,11 +112,16 @@
 
 ## 📜 Certifications
 
-- Java Programming
-- Python Programming
-- Machine Learning
-- Web Development
-
+| Certificate | Link |
+|---|---|
+| Java Programming | [View](https://github.com/Mahekbegum2004/mahekBegum_Portfolio/blob/main/certificates/java.pdf) |
+| Python Programming | [View](https://github.com/Mahekbegum2004/mahekBegum_Portfolio/blob/main/certificates/python.pdf) |
+| SQL Certificate | [View](https://github.com/Mahekbegum2004/mahekBegum_Portfolio/blob/main/certificates/SQL_PDF.jpg) |
+| Git & GitHub | [View](https://github.com/Mahekbegum2004/mahekBegum_Portfolio/blob/main/certificates/GIT,GITHUB_PDF.jpg) |
+| Web Development | [View](https://github.com/Mahekbegum2004/mahekBegum_Portfolio/blob/main/certificates/webdev_pdf.png) |
+| Deloitte Certificate | [View](https://github.com/Mahekbegum2004/mahekBegum_Portfolio/blob/main/certificates/Deloitte.pdf.png) |
+| Power BI | [View](https://github.com/Mahekbegum2004/mahekBegum_Portfolio/blob/main/certificates/power_BI.pdf.png) |
+| Oracle AI Vector | [View](https://github.com/Mahekbegum2004/mahekBegum_Portfolio/blob/main/certificates/Oracle_AI_VECTOR_PDF.jpg) |
 ---
 
 ## 🎯 Currently Learning
